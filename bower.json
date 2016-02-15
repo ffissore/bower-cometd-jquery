@@ -32,7 +32,7 @@
     "**/.*"
   ],
   "dependencies": {
-    "cometd": "=3.0.9.1",
+    "cometd": "=3.0.9-rev1",
     "jquery": "~2.1.4"
   }
 }
