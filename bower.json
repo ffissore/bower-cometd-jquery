@@ -1,5 +1,5 @@
 {
-  "name": "cometd-jquery",
+  "name": "cometd-binding-jquery",
   "homepage": "https://github.com/cometd/cometd",
   "authors": [
     "Federico Fissore <federico@fissore.org>"
@@ -32,7 +32,7 @@
     "**/.*"
   ],
   "dependencies": {
-    "cometd": ">=3.0.9",
+    "cometd": "=3.0.9.1",
     "jquery": "~2.1.4"
   }
 }
